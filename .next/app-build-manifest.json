@@ -16,10 +16,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/di/new/page.js"
     ],
-    "/_not-found/page": [
+    "/di/[id]/approve/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/di/[id]/approve/page.js"
     ]
   }
 }
