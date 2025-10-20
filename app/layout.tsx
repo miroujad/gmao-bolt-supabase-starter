@@ -30,6 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <a href="/pmp">PMP</a>
             <a href="/dashboard">Dashboard</a>
             <a href="/di/backlog">Backlog DI</a>
+            <a href="/wo/backlog">Backlog OT</a>
           </nav>
         </header>
 
