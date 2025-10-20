@@ -20,6 +20,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/di/[id]/approve/page.js"
+    ],
+    "/wo/[id]/materials/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/wo/[id]/materials/page.js"
     ]
   }
 }
