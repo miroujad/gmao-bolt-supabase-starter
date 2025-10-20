@@ -30,6 +30,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/di/backlog/page.js"
+    ],
+    "/wo/backlog/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/wo/backlog/page.js"
     ]
   }
 }
