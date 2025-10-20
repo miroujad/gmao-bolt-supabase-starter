@@ -1,1 +1,8 @@
-{}
+{
+  "app/di/[id]/approve/page.tsx -> @/lib/supabaseClient": {
+    "id": "app/di/[id]/approve/page.tsx -> @/lib/supabaseClient",
+    "files": [
+      "static/chunks/_app-pages-browser_lib_supabaseClient_ts.js"
+    ]
+  }
+}
