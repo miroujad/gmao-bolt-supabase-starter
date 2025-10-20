@@ -36,10 +36,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/wo/backlog/page.js"
     ],
-    "/_not-found/page": [
+    "/wo/[id]/edit/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/wo/[id]/edit/page.js"
     ]
   }
 }
