@@ -39,4 +39,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
-<a href="/di/backlog">Backlog DI</a>
+
